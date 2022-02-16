@@ -20,7 +20,6 @@ const CategoriasProvider = (props) => {
     obtenerCategorias()
   }, [])
   
-  
   return (
     <CategoriasContext.Provider
       value={{
